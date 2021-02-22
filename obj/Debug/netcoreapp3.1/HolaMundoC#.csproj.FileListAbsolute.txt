@@ -1,0 +1,13 @@
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.exe
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.deps.json
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.runtimeconfig.json
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.runtimeconfig.dev.json
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.dll
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\bin\Debug\netcoreapp3.1\HolaMundoC#.pdb
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.csprojAssemblyReference.cache
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.AssemblyInfoInputs.cache
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.AssemblyInfo.cs
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.csproj.CoreCompileInputs.cache
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.dll
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.pdb
+C:\Users\JACC1\Desktop\Project C#\HolaMundoC#\obj\Debug\netcoreapp3.1\HolaMundoC#.genruntimeconfig.cache
